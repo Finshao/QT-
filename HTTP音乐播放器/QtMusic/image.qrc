@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/">
+      <file>image/peiqi.png</file>
+      <file>image/buttonstart.png</file>
+      <file>image/buttonstop.png</file>
+      <file>image/Eason.jpg</file>
+    <file>image/musicsong.png</file>
+    <file>image/musicnext.png</file>
+    <file>image/musicpre.png</file>
+    <file>image/addfile.png</file>
+    <file>image/up.png</file>
+    <file>image/musicsignal.png</file>
+    <file>image/img.jpg</file>
+    <file>image/lyric.txt</file>
+  </qresource>
+</RCC>
