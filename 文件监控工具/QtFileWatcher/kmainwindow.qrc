@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+      <file>icons/trayIconBlink.svg</file>
+      <file>icons/kmainwidow.png</file>
+      <file>icons/pauseyes.svg</file>
+      <file>icons/startyes.svg</file>
+      <file>icons/back.svg</file>
+      <file>icons/startno.svg</file>
+      <file>icons/pauseno.svg</file>
+    </qresource>
+</RCC>
+
