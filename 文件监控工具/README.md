@@ -178,7 +178,7 @@
 >    > 
 >    > * 避免了常规的目录监听只能看到哪个文件更改了，不直观
 > 
-> ![文件监听1png](./image/文件监听1.png)
+> ![文件监听1png](./QtFileWatcher/image/文件监听1.png)
 > 
 > 子目录下：![文件监听2](./QtFileWatcher/image/文件监听2.png)
 > 
